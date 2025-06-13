@@ -72,6 +72,9 @@ To create a compelling visual report that tells a business story using sales dat
 
 ---
 
+-<a href = "https://github.com/DhanaLakshmiKotupalli/Superstore-Sales-Visual-Storytelling-Dashboard/blob/main/PowerPoint%20Presentation.pptx"> PPT PRESENTATION </a>
+
+
 ## 👩‍💻 Author
 
 **Dhana Lakshmi Kotupalli**  
