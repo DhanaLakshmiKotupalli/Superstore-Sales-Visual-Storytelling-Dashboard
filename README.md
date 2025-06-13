@@ -19,7 +19,7 @@ To create a compelling visual report that tells a business story using sales dat
 ---
 
 ## Dataset Used
-<a href = "https://github.com/DhanaLakshmiKotupalli/Superstore-Sales-Visual-Storytelling-Dashboard/blob/main/Orders.csv"> Dataset</a>
+- <a href = "https://github.com/DhanaLakshmiKotupalli/Superstore-Sales-Visual-Storytelling-Dashboard/blob/main/Orders.csv"> Dataset</a>
 
 ---
 ## ✅ Tools Used
